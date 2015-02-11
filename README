@@ -1,0 +1,28 @@
+#File: Storm
+#Author: Brian Bauer
+
+#About:
+	At flagpost 8 a storm rages on, leaving a research team stranded. 
+	Last spotted by an orbital camera, they have since disappeared. All
+	that remains at the site is the flag. The outlook for the storm to 
+	clear up is dim at best.
+
+#Controls:
+	Arrow Keys...........Orientate the camera around the cube
+	Page Up..............Zoom in
+	Page Down............Zoom Out
+	L....................Start/Stop the movement of the light triangle
+
+#Goals:
+	[x] Terrain
+		[x] Method to generate each vertex
+		[x] Height Map
+		[x] Lighting and Normal Calculations
+	[x] Animated Flag using a Vertex Shader
+	[ ] Animated Mesh Using Bones
+	[ ] Image Processing
+		[ ] Depth of Filed and Focus
+		[x] Scanlines/Noise
+	[x] Rain Using a Geometry Shader
+	[x] Animated Fog and Skybox using a fragment shader
+	[x] Use Opengl 4
