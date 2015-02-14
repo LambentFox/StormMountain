@@ -6,9 +6,13 @@ At flagpost 8 a storm rages on, leaving a research team stranded. Last spoted by
 
 ### Controls:
 Arrow Keys...........Orientate the camera around the cube
+
 Page Up..............Zoom in
+
 Page Down............Zoom Out
+
 L....................Start/Stop the movement of the light triangle
+
 
 ### Goals
 - [x] Terrain
