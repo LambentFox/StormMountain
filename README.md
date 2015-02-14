@@ -1,5 +1,4 @@
 # Storm Mountain
-## Author: Brian Bauer
 
 ### About
 At flagpost 8 a storm rages on, leaving a research team stranded. Last spoted by an orbital camera, they have since disappeared. All taht remains at the site is the flat. THe outlook for the storm to clear up is dim at best.
